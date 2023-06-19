@@ -1,0 +1,13 @@
+# Ignoring binary files.
+bin/*
+
+# Ignoring VSCode files.
+.vscode/
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/c_cpp_properties.json
+
+# Ignoring old source files
+src-old/
+src-old/*
